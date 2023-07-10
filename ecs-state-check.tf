@@ -3,7 +3,7 @@ variable "ecssc_slack_channel_name" {
 }
 
 variable "ecssc_slack_webhook_url" {
-  default = "https://api.slack.com/apps/AB5SUAHHA/incoming-webhooks"
+  default = "https://api.slack.com/apps/qwerty/incoming-webhooks"
 }
 
 locals {
